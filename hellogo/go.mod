@@ -2,6 +2,6 @@ module github.com/P3T3R2002/first_go/hellogo
 
 go 1.23.1
 
-replace example.com/username/mystrings => ../mystrings
+replace github.com/P3T3R2002/first_go/mystrings => ../mystrings
 
-require	example.com/username/mystrings v0.0.0
+require github.com/P3T3R2002/first_go/mystrings v0.0.0
